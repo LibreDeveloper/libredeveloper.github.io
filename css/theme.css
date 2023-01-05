@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(12, 50, 59) !important;
+    color: whitesmoke !important;
+    font-family: roboto, serif;
+}
+@font-face {
+    font-family: roboto;
+    src: url("/assets/fonts/roboto.ttf");
+}
